@@ -1,4 +1,23 @@
 #include <iostream>
+int a(int a) {
+    return a;
+}
+int b(int a) {
+    return a;
+}
+int c(int a) {
+    return a;
+}
+int d(int a) {
+    return a;
+}
+int e(int a) {
+    return a;
+}
+int f(int a) {
+    return a;
+}v
+
 
 void kochamWAT () {
     std::cout << "Kocham WAT" << std::endl;
