@@ -1,4 +1,23 @@
 #include <iostream>
+int a(int a) {
+    return a;
+}
+int b(int a) {
+    return a;
+}
+int c(int a) {
+    return a;
+}
+int d(int a) {
+    return a;
+}
+int e(int a) {
+    return a;
+}
+int f(int a) {
+    return a;
+}v
+
 
 void kochamWaT () {
     std::cout << "Kocham WAT" << std::endl;
@@ -16,6 +35,7 @@ int main() {
     // TIP Press <shortcut actionId="RenameElement"/> when your caret is at the <b>lang</b> variable name to see how CLion can help you rename it.
     auto lang = "C++";
     std::cout << "Military University of Technology" << lang << "!\n";
+    std::cout << "piwo of University of Technology" << lang << "!\n";
 
 
     int i = 10;
